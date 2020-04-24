@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ForFlutter</string>
+
+    <string name="open_native">原生页面</string>
+    <string name="open_flutter">flutter页面</string>
+    <string name="open_flutter_fragment">flutter fragment页面</string>
+    <string name="native_info">这是原生页面</string>
+</resources>
