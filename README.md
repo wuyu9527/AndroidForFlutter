@@ -229,5 +229,8 @@ class TestBoostNavigatorObserver extends NavigatorObserver{
   }
 }
 
+# android flutter 互相通信和解决堆栈返回问题
 
+引用:https://juejin.im/post/5d04790a6fb9a07efa09164d
+相关:android 和 my_flutter
 
